@@ -1,4 +1,4 @@
-# AI-ML-Project
+# AI-ML-Project Prediction on Heart Disease Using Artificial Intelligence and Machine Learning Techniques
 Prediction on Heart Disease Using Artificial Intelligence and Machine Learning Techniques
 I have uploaded code only for Decesion Trees and Neural Networks could'nt upload other due to copyrights.
 
